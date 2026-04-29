@@ -12,7 +12,7 @@ Các bài tập học tập về những khái niệm cơ bản của Flutter ba
 ### Bước 1: Clone Dự Án
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/dnd-Crisama/flutter-exercise-week4-dangngocduc.git
 cd flutter_exercise_week4
 ```
 
